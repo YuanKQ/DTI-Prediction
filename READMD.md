@@ -1,1 +1,0 @@
-Source Code for paper "Drug-Target Interaction Prediction in a Knowledge-Driven Collaborative Framework"
